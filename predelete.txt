@@ -1,3 +1,5 @@
 This is a file that will be test for delete
 
 and find it back
+
+you can use git reset --hard num to get back this deleted file 
